@@ -106,3 +106,6 @@ GuestList.remove('Jack Harlow')
 GuestList.insert(0, 'The Rock')
 print(sorted(GuestList))
 GuestList.reverse()
+
+#3 - 11
+# I made an error when trying the pop technique because I was trying to remove a name that has already been removed. 
